@@ -61,7 +61,8 @@ int main() {
     printf("\n");
     
     printf("Agora, insira os dados da carta 2\n"); // Inserir os dados da 2⁰ carta
-    printf("Nome do Estado (De A até H): \n"); // Inserir o Estado da 1⁰ carta
+    printf("Nome do Estado (De A até H): \n"); // Inserir o Estado da 1
+2⁰ carta
     scanf("%s", &estado2);
     
     printf("\n");
