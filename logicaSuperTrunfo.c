@@ -118,7 +118,7 @@ int main() {
     printf("\n");
     printf("\n");
     
-    printf("Dados da Carta 2: \n"); //Códigos para retornar os dados da Carta 1
+    printf("Dados da Carta 2: \n"); //Códigos para retornar os dados da Carta 2
     printf("Estado: %s\n", estado2);
     printf("Código da carta: %s\n", codigo2);
     printf("Cidade: %s\n", cidade2);
