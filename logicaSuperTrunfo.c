@@ -60,13 +60,13 @@ int main() {
     printf("\n");
     printf("\n");
     
-    printf("Agora, insira os dados da carta 2\n"); // Inserir os dados da 1⁰ carta
+    printf("Agora, insira os dados da carta 2\n"); // Inserir os dados da 2⁰ carta
     printf("Nome do Estado (De A até H): \n"); // Inserir o Estado da 1⁰ carta
     scanf("%s", &estado2);
     
     printf("\n");
     
-    printf("Código da carta (O Estado + um número de 01 até 04): \n"); // Inserir o Código da 1⁰ carta
+    printf("Código da carta (O Estado + um número de 01 até 04): \n"); // Inserir o Código da 2⁰ carta
     scanf("%s", &codigo2);
     
     printf("\n");
@@ -78,7 +78,7 @@ int main() {
     
     printf("\n");
     
-    printf("População da Cidade: \n"); //Inserir a População da 1⁰ carta
+    printf("População da Cidade: \n"); //Inserir a População da 2⁰ carta
     scanf("%d", &populacao2);
     
     printf("\n");
